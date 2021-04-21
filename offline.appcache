@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1618834729
+#1619016390
 index.html
 c2runtime.js
 jquery-2.0.0.min.js
@@ -10,12 +10,19 @@ images/sprite4-sheet0.png
 images/sprite5-sheet0.png
 images/sprite6-sheet0.png
 images/sprite7-sheet0.png
-images/sprite13-sheet0.png
-images/sprite14-sheet0.png
+images/sprite32-sheet0.png
+images/sprite30-sheet0.png
 images/sprite15-sheet0.png
 images/sprite16-sheet0.png
+images/sprite18-sheet0.png
+images/sprite20-sheet0.png
+images/sprite22-sheet0.png
+images/sprite26-sheet0.png
 media/intentalo.ogg
 media/muy.ogg
+media/intentalo1.ogg
+media/muy1.ogg
+media/presentacion.ogg
 icon-16.png
 icon-32.png
 icon-114.png
